@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string nome = "Geronimo";
+int idade = 24;
+
+Console.WriteLine("Dia 2/2 eu faço 25")

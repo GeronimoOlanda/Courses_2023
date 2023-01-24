@@ -7,3 +7,5 @@
 *.sqlite
 /.vs/VSWorkspaceState.json
 /Courses/.vs/Courses/v17/.suo
+*.vsidx
+/Courses/.vs/Courses/FileContentIndex/fde88859-6992-4e14-baca-75ee1fdb0ad1.vsidx
