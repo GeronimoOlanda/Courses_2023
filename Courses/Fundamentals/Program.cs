@@ -1,4 +1,7 @@
-﻿string nome = "Geronimo";
-int idade = 24;
+﻿string name = "";
+string middleName = "";
+string BirthDay = "";
 
-Console.WriteLine("Dia 2/2 eu faço 25");
+int age = 0;
+
+double weight 
