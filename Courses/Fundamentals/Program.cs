@@ -4,4 +4,5 @@ string BirthDay = "";
 
 int age = 0;
 
-double weight 
+double weight = 0;
+
