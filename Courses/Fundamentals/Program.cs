@@ -5,4 +5,5 @@ string BirthDay = "";
 int age = 0;
 
 double weight = 0;
-IList<string> FamilyMember = new List<string>();
+IList<string> FamilyMember = new List<string>(); 
+IList<string> FamilyAge = new List<string>();
