@@ -12,3 +12,9 @@
 /Courses/.vs/Courses/DesignTimeBuild/.dtbcache.v2
 /Courses/.vs/ProjectEvaluation/courses.metadata.v5.2
 /Courses/.vs/ProjectEvaluation/courses.projects.v5.2
+*.suo
+*.v2
+*.cache
+*.editorconfig
+*.props
+*.targets
